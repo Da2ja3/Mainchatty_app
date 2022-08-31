@@ -1,16 +1,12 @@
 # chatty_app
 
-A new Flutter project.
+ChattyApp is a mobile chat app where two or more people can have a discussion
+The app consist of two main groups, where users can chhose where they prefer to have a group discussion.
+ChattyApp is Unique because its a safe and secured way to communicate with friends 
+Anyone who wants to chat must sign up and login, using their email and password
+After authenticating, Users will see Group 1(Gneral Discussion) and Group 2(Tech Discussion)
+Users can join any group and chat
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With Chattyapp you can be assured you data is safe and secured.
+ChattyApp is authenticated using fireBaseAuth
